@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Adrian!</h1>
 <h3 align="center">**You are really close to finishing the project, but there is still some things you can improve on. 👍**</h3>
 
